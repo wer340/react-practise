@@ -1,0 +1,16 @@
+body{
+    padding: 30px;
+}
+#root{
+    display: grid;
+    grid-template-columns: repeat(4,1fr);
+    gap: 1em;
+}
+img{
+    width: 100%;
+}
+#root > div{
+    text-align: center;
+    border: solid 1px #FA9494;
+background-color: #FFD8A9;
+}
