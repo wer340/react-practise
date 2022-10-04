@@ -6,3 +6,9 @@
 
 # 178.22.122.100 
 # 185.51.200.2
+
+
+
+## for reduce size image use this site\
+
+## [tinypng](https://tinypng.com/)
