@@ -1,7 +1,7 @@
 body{
     padding: 30px;
 }
-#root{
+.grid-template{
     display: grid;
     grid-template-columns: repeat(4,1fr);
     gap: 1em;
@@ -9,8 +9,16 @@ body{
 img{
     width: 100%;
 }
-#root > div{
+.gridy{
     text-align: center;
     border: solid 1px #FA9494;
 background-color: #FFD8A9;
+}
+.search{
+    display: block;
+    text-align: center;
+    padding: 50px 100px;
+}
+input{
+    width: 20%;
 }

@@ -1,10 +1,10 @@
 import React from 'react';
 
-function ImgBox(props){
+function ImgBox({name,src}){
     return (
-        <div>
-        <h2>{props.name}</h2>
-        <img src={props.src} />
+        <div className='gridy'>
+        <h2>{ name}</h2>
+        <img src={ src} />
        </div>
     )
 }
