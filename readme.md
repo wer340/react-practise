@@ -15,3 +15,11 @@
 ## for reduce size image use this site\
 
 ## [tinypng](https://tinypng.com/)
+
+# compare   optim  image  vs not optim
+
+## not optim 
+![not optim](https://raw.githubusercontent.com/wer340/react-practise/main/mrbin_photo_componnent/public/images/imageloadnotOptimize.png)
+
+## optim
+![optim](https://raw.githubusercontent.com/wer340/react-practise/main/mrbin_photo_componnent/public/images/imageloadOptimize.png)
